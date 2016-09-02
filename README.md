@@ -1,2 +1,2 @@
 # Hello-World
-Starting out . . .
+Starting out with GitHub.  Looking forward to software development.
